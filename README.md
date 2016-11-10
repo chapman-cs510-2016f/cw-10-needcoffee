@@ -42,7 +42,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment was a really helpful way to understand pointers. Though we were exposed to them in other classes, working with pointers really seemed to make a lot more sense for us through completing this assignment.**
 
 ## Honor Pledge
 
